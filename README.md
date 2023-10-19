@@ -2,7 +2,7 @@
 
 Lung Cancer classification (LIDC-IDRI dataset)
 
-Files:
+## Files:
 
 functions.py (functions that are used in multiple .ipynb files)
 
