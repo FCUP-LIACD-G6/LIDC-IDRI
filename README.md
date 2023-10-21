@@ -8,7 +8,7 @@ functions.py (functions that are used in multiple .ipynb files)
 
 1-EDA (some EDA as well as data loading)
 
-2-SEGMENTATION (lungs visualization and nodules mask creation)
+2-SEGMENTATION (lungs visualization, nodules mask creation and feature extraction)
 
 
 
