@@ -11,12 +11,12 @@ functions.py (functions that are used in multiple .ipynb files)
 2-SEGMENTATION (lungs visualization, nodules mask creation and feature extraction)
 
 TODO:
-• Feature Selection;
-• Model Selection and optimization;
-• Choose performance metrics;
-• Perform validation; 
-• Explore the model interpretability and fairness;
-• Visualization of results;
+* Feature Selection;
+* Model Selection and optimization;
+* Choose performance metrics;
+* Perform validation; 
+* Explore the model interpretability and fairness;
+* Visualization of results;
 
 
 
