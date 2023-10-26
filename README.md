@@ -9,7 +9,7 @@ Lung Cancer classification (LIDC-IDRI dataset)
 2. SEGMENTATION (lungs visualization, nodules mask creation and feature extraction)
 
 TODO:
-* Feature Selection;
+* Feature Selection; # Done
 * Model Selection and optimization;
 * Choose performance metrics;
 * Perform validation; 
