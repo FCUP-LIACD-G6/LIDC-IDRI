@@ -19,4 +19,4 @@ TODO:
 
 
 
-
+We acknowledge that we have reviewed and complied with the terms and conditions specified on the dataset's website, as outlined in the initial dataset information. This includes adhering to data usage policies, privacy protection guidelines, and any other requirements set forth by the dataset providers.
